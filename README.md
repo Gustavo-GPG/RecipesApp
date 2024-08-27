@@ -37,7 +37,7 @@ Ou você pode seguir a documentação do site [git](https://git-scm.com/download
 
 • Navegue até a pasta criada no clone e abra o terminal
 ```bash
-nmp install
+npm install
 ```
 ⚠️**Atenção:** você precisa ter o node instalado para poder instalar os pacotes de dependência, caso não tenha instalado siga as intruções em [Node](https://nodejs.org/en/download/package-manager)
 
