@@ -10,7 +10,7 @@ Este projeto foi realizado durante um sprint, no qual minha turma foi dividida e
 
 Durante essa experiência tive meu foco de contribuição na comunicação com a API, na montagem dos componentes e no desenvolvimento de testes.
 
-#🚀 Tecnologia utilizada
+#🚀 Tecnologias utilizadas
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/><img src="https://vitest.dev/logo.svg" alt="Vitest" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 
