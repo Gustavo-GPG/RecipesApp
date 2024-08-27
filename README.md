@@ -60,7 +60,7 @@ npm run test
 
 #Autores e agradecimento
 ---
-Este projeto foi seguido por requisitos pré-estabelecidos pela [Trybe](https://www.betrybe.com).
+Este projeto foi guiado por requisitos pré-estabelecidos pela [Trybe](https://www.betrybe.com).
 Deixo aqui uma ressalva a todos que contruibuiram para o projeto
 
 - [Leonardo Rocha](https://github.com/leorubemrocha)
