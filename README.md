@@ -15,6 +15,8 @@ Durante essa experiência tive meu foco de contribuição na comunicação com a
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/><img src="https://vitest.dev/logo.svg" alt="Vitest" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 
 🗣️ Kanban Trello
+![appDeReceitasTrello](https://github.com/user-attachments/assets/d76303d2-c265-4dad-9db1-d8844813b5b3)
+
 ---
 # 🖥️ Iniciando aplicação
 • Para copiar o repositório para uma pasta local, use o seguinte comando no terminal:
